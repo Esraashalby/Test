@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background-color: whitesmoke;
+}
+.border-end{
+    padding-right: 10px;
+    height: 70;
+    box-sizing: 50px;
+}
+ul{
+    list-style: none;
+}
+
+.border1-m{
+    margin: 2px;
+    width: 40px;
+    margin-left: auto;
+    
+}
+.border2-m{
+    margin: 2px;
+    width: 80px;
+  margin-right: auto;
+}
+.border3-m{
+    margin: 2px;
+    width: 40px;
+}
+.card{
+    border: none;
+}
+.cradtest{
+position: relative;
+}
+.about-box  {
+    position: absolute;
+    bottom: 0;
+    right: 700px;
+    max-width: 350px;
+    background-color: rgb(245, 244, 244);
+  }
+  .icone-box{
+      border: 1px solid white;
+      background-color: white;
+      border-width: 20px 15px;
+      border-radius: 20%;
+      margin-right: 35px;
+  }
